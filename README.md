@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://stevenlocen.com"><b>Visit my portfolio.</b></a>
+  <a href="https://stevenlocen.com"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
-  <a href="https://stevloc.itch.io/"><b>Play my games.</b></a>
+  <a href="https://stevloc.itch.io/"><b>Itch.io</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/steven-loc"><b>Connect on LinkedIn.</b></a>
+  <a href="https://www.linkedin.com/in/steven-loc"><b>LinkedIn</b></a>
 </p>
 
 <h2>🍌 There is a human behind the goggles.</h2>
