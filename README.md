@@ -8,7 +8,7 @@
   &nbsp;·&nbsp;
   <a href="https://stevloc.itch.io/"><b>Itch.io</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/steven-loc"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/stevloc"><b>LinkedIn</b></a>
 </p>
 
 <h2>About</h2>
@@ -18,15 +18,12 @@ steven lo
 
 $ education
 &gt; information systems management @ cmu
-└─ focus: data analytics
-          + business intelligence
+└─ focus: data analytics + business intelligence
 &gt; computer science @ nyu
-└─ minors: mathematics
-           &amp;&amp; game engineering
+└─ minors: mathematics &amp;&amp; game engineering
 
 $ interests
-ai | data science | swe | game design
-open source | appdev
+ai | data science | swe | game design | open source | appdev
 
 $ currently
 building practical systems
