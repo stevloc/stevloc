@@ -11,58 +11,33 @@
   <a href="https://www.linkedin.com/in/steven-loc"><b>LinkedIn</b></a>
 </p>
 
-<h2>🍌 There is a human behind the goggles.</h2>
+<h2>About</h2>
 
-<p>I'm Steven Lo Cen. I work across software engineering, AI, data, and game development. I studied computer science at NYU and now study business intelligence and data analytics at Carnegie Mellon.</p>
+<pre>$ whoami
+steven lo
 
+$ education
+&gt; information systems management @ cmu
+└─ focus: data analytics
+          + business intelligence
+&gt; computer science @ nyu
+└─ minors: mathematics
+           &amp;&amp; game engineering
 
-<p><img src="assets/lab-divider.svg" width="100%" height="12" alt="" /></p>
+$ interests
+ai | data science | swe | game design
+open source | appdev
 
-<h2>🛠️ Here is what comes out of the lab.</h2>
+$ currently
+building practical systems
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Small habits make a difference.</h3>
-      <p>I co-created Conscious, an iOS budgeting app with transactions, recurring expenses, budgets, and spending insights.</p>
-      <p><a href="https://apps.apple.com/us/app/conscious-better-spending/id6778949105"><b>Explore Conscious.</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Good tools work together.</h3>
-      <p>My Jira Service Adapter work brings together a typed microservice, FastAPI, OAuth, and automated delivery.</p>
-      <p><a href="https://github.com/kiamygomes/osdp-team6"><b>Explore the Jira Service Adapter.</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>A little challenge keeps it fun.</h3>
-      <p>Farm Ninja is a C++ game with modular architecture and progressively harder challenges.</p>
-      <p><a href="https://github.com/stevloc/farm_ninja"><b>Explore Farm Ninja.</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Every game starts with an idea.</h3>
-      <p>I explore mechanics, level design, and iteration through indie games. You can play my published projects on itch.io.</p>
-      <p><a href="https://stevloc.itch.io/"><b>Play something I made.</b></a></p>
-    </td>
-  </tr>
-</table>
+$ offline
+hiking | photography | biking | running
+exploring new cities | trying new food
+coffee
 
-<p>You can <a href="https://github.com/stevloc?tab=repositories">browse my public repositories</a> for more experiments.</p>
+$ contact
+stevloc03@gmail.com
 
-<h2>🧰 Every experiment needs a few good tools.</h2>
-
-<ul>
-  <li>I work with Python, SQL, and C++ across software, data, and game projects.</li>
-  <li>I use React and FastAPI to build interfaces and services.</li>
-  <li>I use Godot for game development and MATLAB for modeling and simulation.</li>
-</ul>
-
-<p><img src="assets/lab-divider.svg" width="100%" height="12" alt="" /></p>
-
-<h2>🤝 Good ideas are better with company.</h2>
-
-<p>If something here sparks an idea, <a href="https://www.linkedin.com/in/steven-loc">connect with me on LinkedIn</a>. I'd be happy to talk about software, data, or games.</p>
-
-<p align="center"><b>Thanks for stopping by. The Minions will take it from here. 🍌</b></p>
-
-<p align="center"><sub>The Minion artwork is from <a href="https://www.pngaaa.com/detail/1105409">PNGAaa</a>.</sub></p>
+$ website
+stevenlocen.com</pre>
